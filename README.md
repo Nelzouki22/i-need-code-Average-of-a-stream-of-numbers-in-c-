@@ -1,0 +1,1 @@
+# i need code Average of a stream of numbers in c#
