@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i need code Average of a stream of numbers in c#", "i need code Average of a stream of numbers in c#.csproj", "{F678B9B9-1857-40BA-8212-FC606EE86A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F678B9B9-1857-40BA-8212-FC606EE86A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F678B9B9-1857-40BA-8212-FC606EE86A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F678B9B9-1857-40BA-8212-FC606EE86A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F678B9B9-1857-40BA-8212-FC606EE86A31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B505DE3-99C9-4E0F-B5C1-A03A2AD8E86F}
+	EndGlobalSection
+EndGlobal
